@@ -1,6 +1,6 @@
 # Hey, I'm Abdellatif AKA 0xTitifel👋
 
-**Founder @[0xLabs](https://github.com/0xLabstm)** | Bug Bounty Hunter - Helping businesses monitor their assets
+**Founder @[0xLabstm](https://github.com/0xLabstm)** | Bug Bounty Hunter - Helping businesses monitor their assets
 
 ---
 
